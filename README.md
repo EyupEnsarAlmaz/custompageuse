@@ -1,6 +1,6 @@
 # custompageuse
 
-A new Flutter project.
+Drawer and BottomNavigationBar use.
 
 ## Getting Started
 
